@@ -3,3 +3,4 @@ b = 8 + 8
 
 if a = 16 and b = 16:
 	c = a + b
+	print(c)
